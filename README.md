@@ -2,7 +2,7 @@
 
 # Space Shooter
 
-![Space Shooter](link-to-your-project-image.png)
+![Space Shooter](Demo/Screenshot (68).png)
 
 ## Project Description
 
