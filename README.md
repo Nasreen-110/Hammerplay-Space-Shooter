@@ -49,6 +49,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 You can reach out to the project maintainers through the following channels:
 
 - Email: [nasreen2613@gmail.com ]
-- GitHub: [(https://github.com/Nasreen-110)](link-to-your-github)
+- GitHub: [https://github.com/Nasreen-110link-to-your-github)
 
 Happy gaming and safe travels through the galaxy!
