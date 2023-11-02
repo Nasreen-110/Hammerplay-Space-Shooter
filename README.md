@@ -2,7 +2,7 @@
 
 # Space Shooter
 
-![Space Shooter](Demo/Screenshot (68).png)
+![Space Shooter](https://github.com/Nasreen-110/Hammerplay-Space-Shooter/blob/main/Demo/Screenshot%20(68).png?raw=true))
 
 ## Project Description
 
